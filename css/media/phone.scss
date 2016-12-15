@@ -1,0 +1,58 @@
+@media  screen and (max-width: 480px) {
+	.container{
+		max-width: 95%;
+		height: auto;
+	}
+
+	.header-left{
+		width: 80%;	
+	}
+
+	.header-right{
+		width: 20%;
+	}
+
+	.user-name{
+		max-width: 150px;
+		font-size: 14px;
+		margin-left: 14px;
+	}
+
+	.menu-item{
+		margin-right: 10px;
+	}
+
+	.menu-link{
+		font-size: 14px;
+	}
+
+	.menu-link_icon{
+		display: none;
+	}
+
+	.about-photo{
+		width: 140px;
+		height: 140px;
+	}
+
+	.portfolio-list{
+		margin-left: 0;
+	}
+
+	.portfolio-item{
+		width: 100%;
+		margin-left: 0;
+	
+	}
+
+	.footer-left{
+		padding-top: 12px;
+	}
+
+	.footer-right{
+		padding-top: 5px;
+	}
+}	
+
+
+

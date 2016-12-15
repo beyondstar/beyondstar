@@ -1,0 +1,29 @@
+.menu-link{
+	display: block;
+	text-align: right;
+	padding: 10px 25px 10px 0;
+	text-decoration: none;
+	border-right: 6px solid transparent;
+	font-size: 18px;
+	color: #414141;
+}
+
+.menu-link:hover{
+	color: #33e1c3;
+}
+
+.menu-link_icon,
+.menu-link_title{
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.menu-link_title{
+	margin-left: 13px;
+}
+
+.menu-item_active .menu-link{
+	border-color: #33e1c3;
+	font-weight: 600;
+	color: #33e1c3;
+}

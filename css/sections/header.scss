@@ -1,0 +1,47 @@
+header{
+	background: #fff;
+	box-shadow: 0 1px 3px 0 rgba(00, 00, 00, .2);
+	padding-bottom: 9px;
+	margin-bottom: 25px;
+}
+
+.header-left, .header-right{
+	float: left;
+	width: 50%;
+}
+
+.header-left{
+	padding-top: 9px;
+}
+
+.header-right{
+	text-align: right;
+	padding-top: 30px;
+}
+
+.user-avatar{
+	border: 1px solid #bebebe;
+	border-radius: 50%;
+	overflow: hidden;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.user-avatar_photo{
+	display: block;
+}
+
+.user-name{
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 19px;
+	max-width: 235px;
+}
+
+.contacts{
+	font-weight: 600;
+	color: #33c1e3;
+	text-decoration: none;
+	background: url(../../img/decor/dotted-border.png) 0 bottom repeat-x;
+	padding-bottom: 3px;
+}

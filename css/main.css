@@ -1,0 +1,17 @@
+@import url(layout/normalize.scss);
+@import url(layout/adjustment.scss);
+@import url(layout/fonts.scss);
+@import url(layout/font-awesome.scss);
+@import url(sections/header.scss);
+@import url(sections/content.scss);
+@import url(sections/menu.scss);
+@import url(sections/about.scss);
+@import url(sections/career.scss);
+@import url(sections/portfolio.scss);
+@import url(sections/footer.scss);
+@import url(media/desktop.scss);
+@import url(media/laptop.scss);
+@import url(media/phone.scss);
+@import url(media/tablet.scss);
+
+/*# sourceMappingURL=main.css.map */
